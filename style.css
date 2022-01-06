@@ -1,0 +1,121 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.mission-section{
+    display: flex;
+    font-family: 'Mukta', sans-serif;
+}
+.half-width{
+    width: 50%;
+    padding-left: 100px;
+}
+.half-width img{
+    width: 70%;
+    padding-left: 90px;
+}
+.focused-heading{
+    border-left: 3px solid tomato;
+    font-family: 'Yeseva One', cursive;
+    font-size: 28px;
+}
+.focused-heading h1{
+    padding-left: 10px;
+
+}
+
+.half-width p{
+    padding-bottom: 15px;
+    padding-top: 10px;
+}
+
+span{
+    color: #FFAD5A;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(blue,purple);
+    padding: 10px 27px;
+    border-radius: 7px;
+    color: white;
+}
+.my-mission-heading{
+    font-size: 28px;
+    font-family: 'Mukta', sans-serif;
+    font-weight: bolder;
+    text-align: center;
+}
+
+
+
+.my-mission-2022{
+    display: flex;
+    padding-bottom: 50px;
+    justify-content: space-between;
+    padding-left: 100px;
+    font-family: 'Mukta', sans-serif;
+}
+.mission{
+     width: 250px;
+     background-color: #EDF5F6;
+     border-radius: 12px;
+     padding-left: 20px;
+}
+.mission img{
+     width: 55%;
+     height: 130px;
+}
+.vission{
+    width: 250px;
+    background-color: #FFEEEE;
+    border-radius: 12px;
+    padding-left: 20px;
+}
+.vission img{
+    width: 55%;
+     height: 130px;
+}
+.goals{
+    width: 250px;
+     background-color: #FFF4D6;
+     border-radius: 12px;
+     padding-left: 20px;
+}
+.goals img{
+    width: 55%;
+     height: 130px;
+}
+#bg-image{
+    background-image: url(./images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position:16px 54px;
+    background-size: 18%;
+}
+#bg-project{
+    background-image: url(./images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    margin: 20px auto;
+    background-size: 18%;
+    background-position:1090px 255px
+}
+.world-cup{
+    display: inline;
+}
+h1{
+    font-size: 40px;
+}
+#wc-section{
+    text-align: center;
+}
+footer{
+    background-color: black;
+    height: 160px;
+}
+.footer-heading{
+    color:white;
+    text-align:center;
+    padding-top: 30px;
+}
+.footer-heading h1{
+    font-family: 'Lobster', cursive;
+}
